@@ -67,9 +67,9 @@ R²    : 0.66
 ```
 - LSTM:
 ```bash
-RMSE  : 33.81
-MAE   : 23.68
-R²    :  0.86
+RMSE  : 25.28
+MAE   : 17.81
+R²    :  0.92
 ```
 - The ARIMA model performed well but with low RMSE.
 - The LSTM model captured complex temporal structures and showed comparable performance.
