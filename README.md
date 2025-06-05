@@ -15,7 +15,7 @@ This project focuses on time series forecasting of Air Quality Index (AQI) using
 
 ## 📊 Dataset
 
-- **Source:** Government or public repository of air quality data (e.g., CPCB, Kaggle).
+- **Source:** [Link to data repo](https://www.kaggle.com/datasets/hirenvora/city-daycsv)
 - **Features:** Date, City, AQI.
 - **Time Frame:** Yearwise data from 2015 to 2019.
 
